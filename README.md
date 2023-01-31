@@ -1,15 +1,6 @@
-# 🚀 Welcome to your new awesome project!
+# KMP Simulator
 
-This project has been created using **webpack-cli**, you can now run
+Interactive visualization for the Knuth-Morris-Pratt algorithm, based on
+https://leoriether.github.io/posts/kmp/
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+![print](https://user-images.githubusercontent.com/8211902/215641434-3e7c5bba-4f04-4ce0-b23c-3113b820a8f5.png)
