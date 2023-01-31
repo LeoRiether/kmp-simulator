@@ -1,5 +1,7 @@
 # KMP Simulator
 
+[https://leoriether.github.io/kmp-simulator/](https://leoriether.github.io/kmp-simulator/)
+
 Interactive visualization for the Knuth-Morris-Pratt algorithm, based on
 https://leoriether.github.io/posts/kmp/
 
